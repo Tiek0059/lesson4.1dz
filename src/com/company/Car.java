@@ -1,4 +1,4 @@
 package com.company;
 
-public class Car {
+public class Car implements Auctionable {
 }
